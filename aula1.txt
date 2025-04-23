@@ -1,0 +1,17 @@
+Aula - 23/04
+____________________________________________________________________________
+Professor ta fazendo uma introdução. 
+"Aprender é descobrir o que você já sabia"
+
+andre.braga2@fatec.sp.gov.br
+Qualquer coisa, manda e-mail.
+Avaliação geral - n1 e n2 50% cada
+
+____________________________________________________________________________
+
+Diferenciar entidade de atributo, se ela não tiver caracteristica nenhuma, ela é realmente um atributo, caso tiver caracteristicas.
+A coisa - entidade, multiplos valores - O que acontece é que, quando tem um banco 
+Caracteristica - imutável.
+Relacionamento - O jeito que "conectamos" duas coisas
+
+Buscar melhor depois.
