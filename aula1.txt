@@ -14,4 +14,7 @@ A coisa - entidade, multiplos valores - O que acontece é que, quando tem um ban
 Caracteristica - imutável.
 Relacionamento - O jeito que "conectamos" duas coisas
 
-Buscar melhor depois.
+A coisa é a organização "Arte & Cena" que tem os atributos principais como capacidade disponiveis, que se relaciona com o a outra entidade eventos, que por carregar os mesmos atributos que arte & cena tem se relaciona.
+
+Entidade nunca é no plural, sempre no singular
+____________________________________________________________________________
